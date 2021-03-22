@@ -1,4 +1,4 @@
-<img align="right" height="100" src="https://github.com/microsoft/OpenLearningAnalytics/blob/main/docs/pics/ola-logo-nobg.png">
+<img align="right" height="100" src="https://github.com/microsoft/OpenLearningAnalytics/blob/main/docs/pics/ola_logo_nobg.png">
 
 
 # OpenLearningAnalytics
