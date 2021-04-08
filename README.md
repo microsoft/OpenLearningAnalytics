@@ -6,7 +6,7 @@
 ### Overview
 OpenLearningAnalytics is a fully open-sourced ([Creative Commons](https://github.com/microsoft/OpenLearningAnalytics/blob/main/LICENSE) and [MIT](https://github.com/microsoft/OpenLearningAnalytics/blob/main/LICENSE-CODE)) data integration and learning analytics architecture and reference implementation built on [Synapse Analytics](https://azure.microsoft.com/services/synapse-analytics/).
 
-<img height="400" src="https://github.com/microsoft/OpenLearningAnalytics/blob/main/docs/pics/diagrams/OLA_ref_arch.png">
+<img height="400" src="https://github.com/microsoft/OpenLearningAnalytics/blob/main/docs/pics/diagrams/OLA_ref_arch.jpg">
 
 This repository contains a set of assets for setting up and walking through a reference implementation of the Open Learning Analytics reference architecture.
 The underlying Azure platform services are mature and well documented, but this set of assets utilizing those platform services is very much a work in progress and comes with no warranties nor SLA's, etc.
